@@ -1,1 +1,1 @@
-Explain what the 'upstream' remote is usually used for, in your own words
+The main branch you are working from is called the Upstream. The Upstream remote is used to track and keep this branch upto date
