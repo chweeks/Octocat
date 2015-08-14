@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+The git clone command creates a directory on your computer of the same name of the repository you are cloning and creates a .git directory inside it. It then copies all the data including all previous versions of the file/project you are cloning and gives you the latest working version.
